@@ -1,0 +1,33 @@
+Initializing Network
+Training epoch  0  loss:  2.4554467
+Training epoch  1  loss:  1.0292984
+Training epoch  2  loss:  0.73798263
+Training epoch  3  loss:  0.5912539
+Training epoch  4  loss:  0.48949608
+Training epoch  5  loss:  0.4182379
+Training epoch  6  loss:  0.36863363
+Training epoch  7  loss:  0.33483812
+Training epoch  8  loss:  0.30925393
+Training epoch  9  loss:  0.28152525
+Training epoch  10  loss:  0.2621308
+Training epoch  11  loss:  0.25927332
+Training epoch  12  loss:  0.25145906
+Training epoch  13  loss:  0.24444687
+Training epoch  14  loss:  0.2180898
+Training epoch  15  loss:  0.21518278
+Training epoch  16  loss:  0.21976914
+Training epoch  17  loss:  0.20070045
+Training epoch  18  loss:  0.19951345
+Training epoch  19  loss:  0.18502846
+Training epoch  20  loss:  0.17441763
+Training epoch  21  loss:  0.17267343
+Training epoch  22  loss:  0.1718277
+Training epoch  23  loss:  0.18249966
+Training epoch  24  loss:  0.17327541
+Training epoch  25  loss:  0.17017804
+Training epoch  26  loss:  0.15737039
+Training epoch  27  loss:  0.14913557
+Training epoch  28  loss:  0.14040491
+Training epoch  29  loss:  0.13418894
+Training epoch  30  loss:  0.113593556
+Elapsed time: 4090.761905670166 start time: 1555251853.955079
