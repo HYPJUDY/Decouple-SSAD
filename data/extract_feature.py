@@ -235,6 +235,10 @@ def main():
     img_dim = 224
     feature_dim = 1024
     data_x_path = join(feature_path, split_set, mode + 'DataX' + pretrain_dataset)
+    # please use the prototxt files provided in data/models folder
+    # since I modified some of the original prototxt files 
+    # to correspond with the variable name (e.g., feature_layer)
+    # and for feature extraction usage (e.g., remove the last dropout and fc layers)
     feature_layer = 'global_pool'
     model_path = '/data/models/'
 
