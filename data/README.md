@@ -14,7 +14,7 @@ We provide preprocessed data files to directly start training and evaluating.
 	data/thumos14/test/window_info.log
 	```
 * All relevant sliding window features of THUMOS14 are as follows. 
-[Download files](https://mail2sysueducn-my.sharepoint.com/:f:/g/personal/huangyp28_mail2_sysu_edu_cn/Eh9uvfgl5CxCmgvaxoWHKfYBuBmd2QVBhDw6SYgzqcA3ZA?e=beDJuO)
+[Download files from Onedrive](https://mail2sysueducn-my.sharepoint.com/:f:/g/personal/huangyp28_mail2_sysu_edu_cn/Eh9uvfgl5CxCmgvaxoWHKfYBuBmd2QVBhDw6SYgzqcA3ZA?e=beDJuO)
  according to your need. Extract them somewhere (refer to my directory structure in Onedrive or put them somewhere else and update [config.py](../config.py) accordingly).
 For example, if you want to test temporal model pretrained on UCF101, you only need to download `test/temporalDataXUCF101`.
  The zip file is about 2.1G and the unzip folder is about 5.4G. There are 4741 npy files (named from 0.npy to 4740.npy)
@@ -27,6 +27,7 @@ For example, if you want to test temporal model pretrained on UCF101, you only n
 	* val/temporalDataXUCF101 (2.0G -> 5.0G)
 	* val/spatialDataXKnetV3 (4.9G -> 10G)
 	* val/temporalDataXKnetV3 (4.8G -> 10G)
+* (Optional) If you prefer to download data from Baidu Wangpan, here's the [link](https://pan.baidu.com/s/1pNfmuRdXOwPg7wreg1jzKw) and the key is `K947`. Due to the upload limitation of one file size, we compressed the whole directory of released data/models into a zip and them split them into 41 zip files (each is 700M, except that the last one is 360M). Please download them all and them extract them together.
 
 ## Preprocess Data by Yourself
 This part is **not necessary and not recommended** if you get preprocessed data above.
