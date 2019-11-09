@@ -127,5 +127,16 @@ please refer to `fig/plot_class_ap.py` for precised number and a visualization c
 
 ![](fig/class_ap.png)
 
+## Citation
+If you like this paper or code, please cite us:
+```
+@inproceedings{huang2019decoupling,
+  author    = {Yupan Huang and Qi Dai and Yutong Lu},
+  title     = {Decoupling Localization and Classification in Single Shot Temporal Action Detection},
+  booktitle = {International Conference on Multimedia and Expo (ICME)},
+  year      = {2019}
+}
+```
+
 ## Contact
 Feel free to open issues or email to me for issues or help using Decouple-SSAD. Any feedback is welcome!
