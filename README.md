@@ -5,7 +5,7 @@ Code, models and data for Decouple-SSAD.
 Yupan Huang, Qi Dai, Yutong Lu, in ICME 2019.
 
 Download preprocessed data, final models and the result files for evaluation by visiting 
-[Hugging Face](huggingface.co/datasets/HYPJUDY/Decouple-SSAD).
+[Hugging Face](https://huggingface.co/datasets/HYPJUDY/Decouple-SSAD).
 
 An improved version of SSAD ([Single Shot Temporal Action Detection](https://arxiv.org/abs/1710.06236)) 
 is also provided in this repository.
